@@ -8,8 +8,5 @@
 		"url": "git+https://github.com/LRNZ09/prettier-config.git"
 	},
 	"author": "Lorenzo Pieri <email@lorenzopieri.dev>",
-	"license": "MIT",
-	"publishConfig": {
-		"registry": "https://npm.pkg.github.com/"
-	}
+	"license": "MIT"
 }
