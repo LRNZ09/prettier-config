@@ -1,12 +1,13 @@
 {
-	"name": "@lrnz09/prettier-config",
-	"version": "1.1.0",
-	"description": "My own Prettier config",
-	"main": "index.js",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/LRNZ09/prettier-config.git"
-	},
-	"author": "Lorenzo Pieri <email@lorenzopieri.dev>",
-	"license": "MIT"
+  "name": "@lrnz09/prettier-config",
+  "version": "1.1.0",
+  "description": "My own Prettier config",
+  "homepage": "https://github.com/LRNZ09/prettier-config",
+  "repository": {
+    "type": "git",
+    "url": "LRNZ09/prettier-config"
+  },
+  "license": "MIT",
+  "author": "Lorenzo Pieri <email@lorenzopieri.dev>",
+  "main": "index.js"
 }
