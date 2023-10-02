@@ -3,7 +3,10 @@
 	"version": "1.1.0",
 	"description": "My own Prettier config",
 	"main": "index.js",
-	"repository": "https://github.com/LRNZ09/prettier-config.git",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/LRNZ09/prettier-config.git"
+	},
 	"author": "Lorenzo Pieri <email@lorenzopieri.dev>",
 	"license": "MIT",
 	"publishConfig": {
